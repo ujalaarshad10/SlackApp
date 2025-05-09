@@ -1,0 +1,4 @@
+.env
+ai-schedule
+flask_session
+credentials.json
